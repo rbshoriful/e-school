@@ -1,0 +1,142 @@
+
+
+.navbar-brand{
+    margin-top: 25px;
+}
+.active .select{
+    border-radius: 33px;
+    background-color: #21b573;
+    padding: 10px 30px !important;
+    color: white !important;
+}
+.nav-item a{
+    margin-top: 25px;
+    margin-left: 28px;
+    margin-right: 10px;
+    color: black !important;
+    font-weight: 400;
+    font-size: 16px;
+}
+.nav-item a:hover{
+    border-radius: 33px;
+    background-color: #21b573;
+    padding: 10px 30px !important;
+    color: white !important;
+}
+.header-bg{
+    background-color: #F0FFF0;
+    height: 576px;
+}
+img{
+    width: 100%;
+}
+.section-text{
+    padding: 50px 20px 0px 0px
+}
+.section-bg{
+    height: 1500px;
+}
+.section-text h6{
+    color: lightsalmon;
+}
+.section-text h1{
+    font-weight: bold;
+    font-size: 50px;
+    color: black;
+}
+.dark-green{
+    color: #21b573;
+}
+.section-text p{
+    color: grey;
+    text-align: justify;
+}
+.btn{
+    border-radius: 33px;
+    background-color: #21b573;
+    padding: 10px 30px !important;
+    color: white !important;
+}
+.icon img{
+    width: 100%;
+    padding: 10% 30%;
+}
+.icon h3{
+    text-align: center;
+}
+.icon p{
+    text-align: center;
+}
+.icon .box{
+    margin-top: 50px;
+    width: 270px;
+    height: 270px;
+    background-color: #f7fffb;
+}
+.box:hover{
+    margin-top: 50px;
+    width: 270px;
+    height: 270px;
+    background-color: #ffffff;
+    box-shadow: 0px 20px 40px gainsboro;
+    border-radius: 10px;
+}
+.online{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: #413960;
+    font-size: 36px;
+    font-weight: bold;
+}
+.box-icon img{
+    float: left;
+}
+.box-icon h6{
+    margin: 7px; 
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 40px grey;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.testimonial{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.w-50{
+    float: right;
+    margin-right: 40px;
+}
+.testi p{
+    color: black;
+    padding-right: 200px;
+}
+.footer-bg{
+    background-color: #282531;
+    height: 370px;
+    color: white;
+}
+.top-footer{
+    margin-top: 80px;
+    float: left;
+}
+.top-footer li{
+    list-style-type: none;
+}
+.top-footer p{
+    text-align: justify;
+    padding: 0px 50px;
+}
+.footer{
+    text-align: center;
+    margin-top: 80px;
+}
+.green{
+    color: yellow;
+}
